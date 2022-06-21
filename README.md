@@ -1,4 +1,4 @@
-
+<div align="center">
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fernandopredes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/fernando-predes-b1545838) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fernando_predes) 
 
@@ -12,3 +12,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fernandopredes&icon=9&color=11)](https://visitcount.itsvg.in)
+</div>
