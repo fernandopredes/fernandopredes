@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Predes</h1>
- <img align="right" alt="GIF" src="https://64.media.tumblr.com/2f672779ada92ace5d1a88704b7f0da9/47c8d6c158676042-72/s1280x1920/bb7b0a9d4f171a8ebf38c806c6cb808055510d7a.gifv" width="345" height="500" />
+ <img align="right" alt="GIF" src="https://segfault.neocities.org/gallery/pixel-art/1492060824904.gif" width="500" height="316" />
 <p align="left"> <a href="https://twitter.com/fernando_predes" target="blank"><img src="https://img.shields.io/twitter/follow/fernando_predes?logo=twitter&style=for-the-badge" alt="fernando_predes" /></a> </p>
 
 - 🔭 I’m currently working on [The Hat](https://thehat.dev/)
