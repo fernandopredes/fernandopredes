@@ -2,7 +2,7 @@
  <img align="right" alt="GIF" src="https://segfault.neocities.org/gallery/pixel-art/1492060824904.gif" width="500" height="316" />
 <p align="left"> <a href="https://twitter.com/fernando_predes" target="blank"><img src="https://img.shields.io/twitter/follow/fernando_predes?logo=twitter&style=for-the-badge" alt="fernando_predes" /></a> </p>
 
-- 🔭 I’m currently working on [The Hat](https://thehat.dev/)
+- 🔭 I’m currently working for [Iniciativa FIS](https://www.linkedin.com/company/iniciativafis/)
 
 - 🌱 I’m currently learning **React / Redux and Node - Gama Academy**
 
