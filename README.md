@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Predes</h1>
- <img align="right" alt="GIF" src="https://segfault.neocities.org/gallery/pixel-art/1492060824904.gif" width="500" height="316" />
+ <img align="right" alt="GIF" src="https://64.media.tumblr.com/084541740768145cfe9d2aca16a5905d/67c1597616a818c6-45/s250x400/6da8af1ab4146aa25d37def7f4b3e94f43a36d79.gifv" width="316" height="316" />
 <p align="left"> <a href="https://twitter.com/fernando_predes" target="blank"><img src="https://img.shields.io/twitter/follow/fernando_predes?logo=twitter&style=for-the-badge" alt="fernando_predes" /></a> </p>
 
 
