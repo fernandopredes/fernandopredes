@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/fernando_predes" target="blank"><img src="https://img.shields.io/twitter/follow/fernando_predes?logo=twitter&style=for-the-badge" alt="fernando_predes" /></a> </p>
 
 
-- 🌱 I’m currently learning **React / Redux - Gama Academy**
+- 🌱 I’m currently learning **React Native - Coti Informática**
 
 - 📫 How to reach me **fernando_predes@hotmail.com**
 
